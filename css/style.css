@@ -115,7 +115,7 @@ body{
 .ba-form-register input#input:-ms-input-placeholder {
 	color: #797b7f;
 }
-.ba-form-register input#input:hover, .ba-form-register input#input:focus, .ba-form-register input#input:active{
+.ba-form-register input#input:hover, .ba-form-register input#input:focus, .ba-form-register input#input:active {
 	outline:none;
 }
 .ba-form-register__box1--m {
